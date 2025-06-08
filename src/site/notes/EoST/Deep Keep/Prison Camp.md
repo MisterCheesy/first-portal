@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eo-st/deep-keep/prison-camp/","tags":["gardenEntry"],"updated":"2025-06-08T14:54:15.430-04:00"}
+{"dg-publish":true,"permalink":"/eo-st/deep-keep/prison-camp/","tags":["gardenEntry"],"updated":"2025-06-08T15:16:07.695-04:00"}
 ---
 
 ## Overview
