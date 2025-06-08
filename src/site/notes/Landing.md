@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/landing/","pinned":true,"tags":["gardenEntry"],"updated":"2025-06-08T15:49:11.117-04:00"}
+{"dg-publish":true,"permalink":"/landing/","pinned":true,"tags":["gardenEntry"],"updated":"2025-06-08T15:50:06.978-04:00"}
 ---
 
  ![firstportal.gif](/img/user/firstportal.gif)
@@ -8,6 +8,3 @@
 
 <--- *See the left hand side for subpages.*
 
- 
- 
-xxx
