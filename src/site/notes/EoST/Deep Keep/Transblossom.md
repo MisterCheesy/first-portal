@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eo-st/deep-keep/transblossom/","updated":"2025-06-08T15:23:12.656-04:00"}
+{"dg-publish":true,"permalink":"/eo-st/deep-keep/transblossom/","updated":"2025-06-08T16:00:28.161-04:00"}
 ---
 
 - An OD dose of Transblossom causes a lot of rapid shifts, dehydration.  Pain causes lack of focus which causes all the shifts.
@@ -7,6 +7,7 @@
 - Leaves give "safer" properties.
 - Flowers are auto OD.
 - Processing makes it last longer, more predictable.
-- Addictive, makes you sick, on withdrawal start to melt/lose control of form.  Takes many doses.
+- Moderately Addictive.  When in withdrawal start to melt/lose control of form.
+- OD is form starts shifting wildly based on any surface thoughts.   Lots of pain, can die.
 
 - ![Transblossom.png](/img/user/EoST/Deep%20Keep/Transblossom.png)
