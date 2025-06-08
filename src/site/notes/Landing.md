@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/landing/","pinned":true,"tags":["gardenEntry"],"updated":"2025-06-08T15:48:37.494-04:00"}
+{"dg-publish":true,"permalink":"/landing/","pinned":true,"tags":["gardenEntry"],"updated":"2025-06-08T15:49:11.117-04:00"}
 ---
 
  ![firstportal.gif](/img/user/firstportal.gif)
@@ -9,5 +9,5 @@
 <--- *See the left hand side for subpages.*
 
  
- :::hidden this is not seen :::
- zzz
+ 
+xxx
