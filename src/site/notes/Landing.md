@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/landing/","pinned":true,"tags":["gardenEntry"],"updated":"2025-06-08T15:34:18.143-04:00"}
+{"dg-publish":true,"permalink":"/landing/","pinned":true,"tags":["gardenEntry"],"updated":"2025-06-08T15:35:45.047-04:00"}
 ---
 
- ![firstportal.gif](/img/user/firstportal.gif)
+ ![[firstportal.gif \| 100px]]
 
 **DM Notes for my First Portal games.**  
 
