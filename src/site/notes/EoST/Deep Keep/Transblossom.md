@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/eo-st/deep-keep/transblossom/","updated":"2025-06-21T19:30:42.504-04:00"}
+{"dg-publish":true,"permalink":"/eo-st/deep-keep/transblossom/","updated":"2025-06-21T19:53:24.453-04:00"}
 ---
 
+#thing
 - An OD dose of Transblossom causes a lot of rapid shifts, dehydration. Pain causes lack of focus which causes all the shifts.
 - Green Kale-like leaves with red stripes. Red spiky flowers
 - Leaves give "safer" properties.
