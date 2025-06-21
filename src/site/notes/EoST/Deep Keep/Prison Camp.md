@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eo-st/deep-keep/prison-camp/","updated":"2025-06-21T19:29:22.376-04:00"}
+{"dg-publish":true,"permalink":"/eo-st/deep-keep/prison-camp/","updated":"2025-06-21T19:36:35.240-04:00"}
 ---
 
 
@@ -28,3 +28,6 @@ Many entries to deliver Transblossom to Cult agents at different places includin
 Set Corwin Bloodwraith in Encampment Near Wickerton: Password is "The Crusader serves the Will of Mankind. We offer this to aid in your hunt for the *ratlings[^1]*.
 
 [^1]: Ratlings is a derogatory term for the Stoutfolk.
+
+
+Leads to [[EoST/Deep Keep/Abandoned Alley\|Abandoned Alley]]
