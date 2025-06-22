@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eo-st/deep-keep/gindan/","updated":"2025-06-21T19:51:48.083-04:00"}
+{"dg-publish":true,"permalink":"/eo-st/deep-keep/gindan/","updated":"2025-06-22T15:03:03.073-04:00"}
 ---
 
 #place
@@ -7,3 +7,23 @@
 
  
 Leads to [[EoST/Deep Keep/Demon Pig Farms\|Demon Pig Farms]]
+
+ 
+
+<% tp.file.cursor() %> 
+
+<script src="https://giscus.app/client.js"
+        data-repo="MisterCheesy/first-portal"
+        data-repo-id="R_kgDOO4QXMg"
+        data-category="General"
+        data-category-id="DIC_kwDOO4QXMs4Cr2m0"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="dark"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
