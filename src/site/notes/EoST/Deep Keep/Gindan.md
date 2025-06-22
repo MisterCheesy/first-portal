@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eo-st/deep-keep/gindan/","updated":"2025-06-22T15:05:41.681-04:00"}
+{"dg-publish":true,"permalink":"/eo-st/deep-keep/gindan/","updated":"2025-06-22T15:26:55.229-04:00"}
 ---
 
 #place
@@ -9,7 +9,6 @@
 Leads to [[EoST/Deep Keep/Demon Pig Farms\|Demon Pig Farms]]
 
  
-
 
 
 <script src="https://giscus.app/client.js"
@@ -27,3 +26,4 @@ Leads to [[EoST/Deep Keep/Demon Pig Farms\|Demon Pig Farms]]
         crossorigin="anonymous"
         async>
 </script>
+ 
