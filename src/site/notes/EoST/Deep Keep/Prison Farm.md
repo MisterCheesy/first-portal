@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eo-st/deep-keep/prison-farm/","updated":"2025-06-22T15:06:48.221-04:00"}
+{"dg-publish":true,"permalink":"/eo-st/deep-keep/prison-farm/","updated":"2025-07-01T23:17:38.984-04:00"}
 ---
 
 #place
@@ -11,7 +11,7 @@ Slaves harvesting [[EoST/Deep Keep/Transblossom\|Transblossom]], watched by Orcs
 
 ## Prison Cells
 
-Dwarf in prisoner cell (who only speaks dwarvish) knows the layout. Brother can translate. Mentions [[EoST/Deep Keep/Gindan\|Gindan]].
+Dwarf in prisoner cell (who only speaks dwarvish) knows the layout. Brother can translate.   Talks about Gindan
 
 When entering greenhouse, game time is 10am, prepping lunch.
 
@@ -33,6 +33,8 @@ Set Corwin Bloodwraith in Encampment Near Wickerton: Password is "The Crusader s
 
 
 Leads to [[EoST/Deep Keep/Abandoned Alley\|Abandoned Alley]]
+
+
 
 <script src="https://giscus.app/client.js"
         data-repo="MisterCheesy/first-portal"
