@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eo-st/deep-keep/throne-room/","updated":"2025-07-09T00:57:33.813-04:00"}
+{"dg-publish":true,"permalink":"/eo-st/deep-keep/throne-room/","updated":"2025-07-09T00:59:33.212-04:00"}
 ---
 
  
@@ -8,7 +8,7 @@
 
 Entrance into [[EoST/Deep Keep/Gindan\|Gindan]]
  
- Elf wizard queen is not happy with you for sitting on her throne.    Her ghostly court watches on as The Fool must entertain her.
+ Perido, the ghost of a long dead elf wizard queen is not happy with you for sitting on her throne.    Her ghostly court watches on as The Fool must entertain her, magic pulsing through the room's walls
  
  Two "doors"
 
